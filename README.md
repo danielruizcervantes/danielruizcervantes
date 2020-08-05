@@ -1,5 +1,12 @@
 ### Daniel Eduardo Ruiz Cervantes
-**Backend Developer in [Diplus](https://www.diplus.tech/)** 
+**Telematic Engineer** graduated of Universidad del Caribe
+
+- Web Developer
+  - .Net (aspx, mvc)
+  - PHP
+
+
+
 
 
 <!--
